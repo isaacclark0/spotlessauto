@@ -71,7 +71,7 @@ const Navbar = () => {
         <ul className=" py-3 space-y-2 sm:px-3">
           <li>
             <Link href="/">
-              <p className="text-white flex hover:text-gray-800 hover:bg-slate-400 transition duration-300 ease-in-out justify-center">Home</p>
+              <p className="text-white flex hover:text-gray-800 hover:bg-slate-400 transition duration-300 ease-in-out justify-center text-center">Home</p>
             </Link>
           </li>
           <li>
