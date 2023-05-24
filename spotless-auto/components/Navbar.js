@@ -17,7 +17,7 @@ const Navbar = () => {
               <p className="text-white font-semibold text-lg">Spotless Auto</p>
             </Link>
           </div>
-          <div className="md:hidden absolute right-5 top-5">
+          <div className="md:hidden absolute right-3 top-[18px]">
             <button
               type="button"
               className="text-gray-200 hover:text-white focus:outline-none focus:text-white"
